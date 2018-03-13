@@ -8,3 +8,5 @@ curious of the content we learned.
 Finally, after we have discussed in detail every possible question from the past years' exams, and that we had a solid grasp of the physics knowledge required, our team scored 7th globally and 4th in North America. Moreover,
 two of our candidates were tied the second place in Canada. Moreover, we won T-shirts!
 This repository sums up the work I contributed to my high school's physics club. It was a memorable experience!
+The contest result info could be found at:
+http://websites.delta.edu/michaelfaleski/PhysicsBowl/PhysicsBowl_2016_Results_Regions_01-14.pdf
