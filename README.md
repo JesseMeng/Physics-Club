@@ -1,5 +1,5 @@
 # Physics-Club
-I was the leader at my high school's physics club, among a few other classmates. At the end of grade 11, we decided to aim to score top 5 as a team in the AAPT physics bowl challenge,
+I was the leader at my high school's physics club, among a few other classmates. At the end of grade 11, we decided to aim to score top 5 in North America as a team in the AAPT physics bowl challenge,
 an international competition written by 7500+ people each year, so that we could win T-shirts :D
 We started planning for the following year's club meetings. We had numerous meetings each week. Moreover, we splitted up the topics 
 among the leaders so each of us can instruct on the general club(I was responsible for mechanics and electricy&magnetism).
